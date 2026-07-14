@@ -64,6 +64,6 @@ This software submits and modifies REAL orders. Test with Sim101 and simulation 
 
 You are entirely responsible for account permissions, order sizing, connectivity, and risk management.
 
-Any catastrophic losses are solely attributed to the user. I 
+Any catastrophic behaviors are solely attributed to the user. I am not liable for your use of the AddOn. 
 
 This is not to be taken as financial advice. 
